@@ -1,0 +1,21 @@
+{
+  "zones": {
+    "start": {
+      "zoneId": "Base",
+      "objects": [],
+      "lastJoinTime": null,
+      "nodes": {
+        "South": {
+          "zone": "start",
+          "node": "North"
+        },
+        "North": {
+          "zone": "start",
+          "node": "South"
+        }
+      }
+    }
+  },
+  "currentZoneId": "start",
+  "currentNodeId": "South"
+}
