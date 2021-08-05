@@ -1,0 +1,9 @@
+﻿{
+  "hotbar": [null, "box"],
+  "items": [
+    {
+      "itemId": "box",
+      "amount": 5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+  "left_eye": {
+    "material": "default"
+  },
+  "right_eye": {
+    "material": "default"
+  },
+  "mouth": {
+    "material": "default"
+  },
+  "top": {
+    "material": "cuadrille-red",
+    "type": "t-shirt"
+  },
+  "bottom": {
+    "material": "default"
+  },
+  "neckerchief": {
+    "material": "default"
+  }
+}
