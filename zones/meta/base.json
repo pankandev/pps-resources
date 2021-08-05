@@ -1,0 +1,14 @@
+{
+  "name": "Base de operaciones",
+  "emoji": "🏠",
+  "nodes": {
+    "South": {
+      "name": "Salida Sur",
+      "emoji": "⬇"
+    },
+    "North": {
+      "name": "Salida Norte",
+      "emoji": "⬆"
+    }
+  }
+}
