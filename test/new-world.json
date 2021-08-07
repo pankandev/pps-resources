@@ -1,7 +1,7 @@
 {
   "zones": {
     "start": {
-      "zoneId": "Base",
+      "zoneId": "base",
       "objects": [
         {
           "id": "box",
@@ -33,7 +33,7 @@
       }
     },
     "second": {
-      "zoneId": "Base",
+      "zoneId": "base",
       "objects": [
         {
           "id": "box",
@@ -68,7 +68,7 @@
       }
     },
     "third": {
-      "zoneId": "NorthBeach",
+      "zoneId": "north-beach",
       "objects": [],
       "lastJoinTime": null,
       "nodes": {

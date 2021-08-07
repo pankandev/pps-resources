@@ -1,9 +1,13 @@
 ﻿{
-  "hotbar": [null, "box"],
+  "hotbar": [null, "box", "paint_purple"],
   "items": [
     {
       "itemId": "box",
       "amount": 5
+    },
+    {
+      "itemId": "paint_purple",
+      "amount": 1
     }
   ]
 }
