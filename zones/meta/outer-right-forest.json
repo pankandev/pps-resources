@@ -1,0 +1,10 @@
+{
+  "name": "Costa bloqueada",
+  "emoji": "🛑",
+  "nodes": {
+    "Path": {
+      "name": "Único camino",
+      "emoji": "🧭"
+    }
+  }
+}

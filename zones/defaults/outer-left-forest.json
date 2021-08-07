@@ -1,9 +1,10 @@
 {
-  "zoneId": "base",
+  "zoneId": "outer-left-forest",
   "objects": [],
   "lastJoinTime": null,
   "nodes": {
     "South": null,
-    "North": null
+    "North": null,
+    "East": null
   }
 }

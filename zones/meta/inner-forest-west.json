@@ -1,0 +1,22 @@
+{
+  "name": "Pasillo boscoso",
+  "emoji": "🌳",
+  "nodes": {
+    "SouthWest": {
+      "name": "Camino Suroeste",
+      "emoji": "↙"
+    },
+    "SouthEast": {
+      "name": "Camino Sureste",
+      "emoji": "↘"
+    },
+    "NorthWest": {
+      "name": "Camino Noroeste",
+      "emoji": "↖"
+    },
+    "NorthEast": {
+      "name": "Camino Noreste",
+      "emoji": "↗"
+    }
+  }
+}

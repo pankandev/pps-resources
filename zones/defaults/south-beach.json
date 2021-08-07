@@ -1,9 +1,8 @@
 {
-  "zoneId": "base",
+  "zoneId": "south-beach",
   "objects": [],
   "lastJoinTime": null,
   "nodes": {
-    "South": null,
-    "North": null
+    "Path": null
   }
 }

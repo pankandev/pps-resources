@@ -1,0 +1,10 @@
+{
+  "name": "Costa pequeña",
+  "emoji": "🏖",
+  "nodes": {
+    "Path": {
+      "name": "Único camino",
+      "emoji": "🧭"
+    }
+  }
+}

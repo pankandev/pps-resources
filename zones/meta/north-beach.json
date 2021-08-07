@@ -1,0 +1,14 @@
+{
+  "name": "Costa ancha",
+  "emoji": "🌊",
+  "nodes": {
+    "Main": {
+      "name": "Camino Principal",
+      "emoji": "🧭"
+    },
+    "Mountain": {
+      "name": "Montaña",
+      "emoji": "🗻"
+    }
+  }
+}
