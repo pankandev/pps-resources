@@ -61,10 +61,28 @@
           "zone": "start",
           "node": "North"
         },
-        "North": null
+        "North": {
+          "zone": "third",
+          "node": "Main"
+        }
+      }
+    },
+    "third": {
+      "zoneId": "north-beach",
+      "objects": [],
+      "lastJoinTime": null,
+      "nodes": {
+        "Main": {
+          "zone": "second",
+          "node": "North"
+        },
+        "Mountain": {
+          "zone": "start",
+          "node": "North"
+        }
       }
     }
   },
-  "currentZoneId": "start",
-  "currentNodeId": "South"
+  "currentZoneId": "third",
+  "currentNodeId": "Main"
 }
